@@ -1,4 +1,4 @@
-**🌎 [Read this in English](#hello-im-juan)**
+**🌎 [Read this in English](#hello--im-juan)**
 # ¡Hola! 👋 Mi nombre es Juan
 
 ### 🌟 Desarrollador en formación en Blockchain y Ciencia de Datos
@@ -33,7 +33,7 @@ Soy un apasionado de la tecnología que está comenzando en el desarrollo dentro
 ⭐️ Desde [juanbako](https://github.com/juanbako)
 
 ---
-# Hello 👋 I'm Juan
+## Hello 👋 I'm Juan 
 
 ### 🌟 Developer in training specializing in Blockchain and Data Science
 
